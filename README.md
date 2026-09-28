@@ -5,6 +5,11 @@
 
 <a href="https://github.com/Rathallah03"><img src="https://img.shields.io/badge/GitHub-Rathallah03-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.telkomuniversity.ac.id/"><img src="https://img.shields.io/badge/Telkom%20University-Computer%20Engineering-7c4dff?style=for-the-badge" alt="Telkom University"/></a>
+<a href="https://github.com/Rathallah03?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
+</div>
+
+<div align="center">
+<sub>AI • LOCAL COMPUTING • GENERATIVE AI • SYSTEMS • IOT</sub>
 </div>
 
 ---
@@ -36,6 +41,20 @@ Computer Engineering Student
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+### ◈ SYSTEM STATUS ◈
+
+| FIELD | STATUS |
+| :--- | :--- |
+| **ROLE** | Computer Engineering Student |
+| **PRIMARY DOMAIN** | AI / Intelligent Systems |
+| **EXPLORING** | Local LLM · Generative AI · AI Agents |
+| **BUILD MODE** | Research → Experiment → Prototype |
+| **ENVIRONMENT** | Windows · Linux · Local GPU Computing |
+
+</div>
 
 ---
 
@@ -189,9 +208,27 @@ Computer Engineering
 ## 📊 GITHUB ACTIVITY
 
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Rathallah03&show_icons=true&hide_border=true&theme=transparent&title_color=7c4dff&icon_color=00e5ff&text_color=c9d1d9" height="165" alt="GitHub statistics"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathallah03&layout=compact&hide_border=true&theme=transparent&title_color=7c4dff&text_color=c9d1d9" height="165" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Rathallah03&theme=transparent&hide_border=true&ring=7c4dff&fire=ff2bd6&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=8b949e" height="165" alt="GitHub contribution streak"/>
+
 </div>
+
+---
+
+## 🛰️ DEVELOPMENT PHILOSOPHY
+
+<div align="center">
+
+`CURIOUSITY` → `EXPERIMENT` → `BUILD` → `DEBUG` → `UNDERSTAND`
+
+</div>
+
+I like projects that sit close to the boundary between **software and the machine underneath** — whether that means an AI workflow, a local model, a networked system, or an embedded device.
 
 ---
 
@@ -216,4 +253,10 @@ Computer Engineering
 
 ---
 
-<sub>Designed & maintained by <a href="https://github.com/Rathallah03">Rathallah03</a> · Computer Engineering × AI × Systems</sub>
+<div align="center">
+
+**RAIHAN ATHALLAH // SYSTEM ONLINE**
+
+<sub>Computer Engineering × AI × Systems · Built with curiosity and too many experiments.</sub>
+
+</div>
