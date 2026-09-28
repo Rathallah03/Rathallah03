@@ -166,6 +166,24 @@ Public workspace for **ComfyUI and generative-AI experimentation**, including wo
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📱 [RutinKu](https://github.com/khalilghibran/habit_tracker)
+
+**Collaborative Flutter mobile application** focused on routines, habits, and daily wellbeing.
+
+- ✅ To-Do & habit tracking
+- 🌱 Habit growth / routine management
+- 😊 Mood tracking & history
+- 😴 Sleep tracking
+- 📊 Dashboard & reports
+- 🤝 Built as a collaborative team project
+
+<code>Flutter</code> · <code>Dart</code> · <code>Mobile Development</code> · <code>Team Project</code>
+
+</td>
+</tr>
 </table>
 
 ---
