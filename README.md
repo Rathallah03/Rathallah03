@@ -74,18 +74,18 @@ I enjoy experimenting with AI beyond simply calling an API — from **generative
 
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-111827?style=for-the-badge)
 ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-111827?style=for-the-badge)
-![Anima](https://img.shields.io/badge/Anima-111827?style=for-the-badge)
-![LoRA](https://img.shields.io/badge/LoRA-111827?style=for-the-badge)
-![Qwen](https://img.shields.io/badge/Qwen-111827?style=for-the-badge)
-![KoboldCpp](https://img.shields.io/badge/KoboldCpp-111827?style=for-the-badge)
-![GGUF](https://img.shields.io/badge/GGUF-111827?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-111827?style=for-the-badge)
+![OpenCode](https://img.shields.io/badge/OpenCode-111827?style=for-the-badge)
 ![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-111827?style=for-the-badge)
+![Kaggle](https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-111827?style=for-the-badge)
+![GGUF](https://img.shields.io/badge/GGUF-111827?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🛠️ TECH MATRIX
+## 🛠️ TECH STACK
 
 **Languages**
 
@@ -95,6 +95,7 @@ I enjoy experimenting with AI beyond simply calling an API — from **generative
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111827)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -106,6 +107,7 @@ I enjoy experimenting with AI beyond simply calling an API — from **generative
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
