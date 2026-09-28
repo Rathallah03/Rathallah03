@@ -42,6 +42,14 @@ Computer Engineering Student
 </tr>
 </table>
 
+### 🧬 PROFILE
+
+Computer Engineering student with a strong interest in **Artificial Intelligence, Machine Learning, and emerging computing technologies**.
+
+I actively explore **AI agents, large language models, generative AI, and image generation** through independent experimentation and projects.
+
+Rather than only using AI as a tool, I am interested in understanding the **technical foundations, systems, and development processes** behind it.
+
 <div align="center">
 
 ### ◈ SYSTEM STATUS ◈
