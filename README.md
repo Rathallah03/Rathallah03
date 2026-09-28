@@ -144,7 +144,7 @@ LLM-based learning assistant built with **Python, Streamlit, and Gemini API**.
 </td>
 <td width="50%" valign="top">
 
-### 🎮 [Gacha Inventory System](https://github.com/Rathallah03/gacha-inventory-system)
+### 🎮 [Gacha Inventory System - SEA Chan](https://github.com/Rathallah03/gacha-inventory-system)
 
 Python + CustomTkinter simulator with:
 
