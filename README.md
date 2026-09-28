@@ -21,8 +21,8 @@
 <td width="50%" valign="top">
 
 ### 👤 Identity
-**Raihan Athallah**  
-S1 Teknik Komputer
+**Raihan Athallah**<br> 
+S1 Teknik Komputer<br>
 **Telkom University** · Bandung, Indonesia
 
 > Exploring the intersection of software, AI, and computer systems.
