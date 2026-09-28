@@ -4,7 +4,7 @@
 <br/>
 
 <a href="https://github.com/Rathallah03"><img src="https://img.shields.io/badge/GitHub-Rathallah03-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.telkomuniversity.ac.id/"><img src="https://img.shields.io/badge/Telkom%20University-Computer%20Engineering-7c4dff?style=for-the-badge" alt="Telkom University"/></a>
+<a href="https://www.telkomuniversity.ac.id/"><img src="https://shields.io" alt="Telkom University"/></a>
 <a href="https://github.com/Rathallah03?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
 </div>
 
