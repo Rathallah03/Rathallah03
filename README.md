@@ -79,7 +79,7 @@ I enjoy experimenting with AI beyond simply calling an API — from **generative
 ![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-111827?style=for-the-badge)
 ![Kaggle](https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-111827?style=for-the-badge)
-![GGUF](https://img.shields.io/badge/GGUF-111827?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-111827?style=for-the-badge)
 
 </div>
 
