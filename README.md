@@ -189,19 +189,21 @@ Computer Engineering
 
 ---
 
-## 🔭 CURRENTLY BUILDING
+## 🛰️ ACTIVE MODULES
 
 > **Learn → Experiment → Build → Break → Debug → Understand → Repeat**
 
-~~~
-[ AI / ML ]          ███████████████░░░
-[ Local AI ]         ██████████████░░░░
-[ Systems ]          ████████████░░░░░░
-[ Networking ]       ██████████░░░░░░░░
-[ IoT / Hardware ]   ████████░░░░░░░░░░
-~~~
+<div align="center">
 
-*Visual snapshot only — not formal skill ratings.*
+| MODULE | STATUS |
+| :--- | :--- |
+| 🧠 **AI / ML** | 🟢 Experimenting |
+| 🤖 **Local AI** | 🟢 Building |
+| ⚙️ **Computer Systems** | 🔵 Learning |
+| 🌐 **Networking** | 🔵 Exploring |
+| 🔌 **IoT / Hardware** | 🟣 Experimenting |
+
+</div>
 
 ---
 
@@ -209,12 +211,11 @@ Computer Engineering
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rathallah03&show_icons=true&hide_border=true&theme=transparent&title_color=7c4dff&icon_color=00e5ff&text_color=c9d1d9" height="165" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathallah03&layout=compact&hide_border=true&theme=transparent&title_color=7c4dff&text_color=c9d1d9" height="165" alt="Top languages"/>
+<img src="https://streak-stats.demolab.com?user=Rathallah03&theme=transparent&hide_border=true&ring=7c4dff&fire=ff2bd6&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=8b949e" height="165" alt="GitHub contribution streak"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Rathallah03&theme=transparent&hide_border=true&ring=7c4dff&fire=ff2bd6&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=8b949e" height="165" alt="GitHub contribution streak"/>
+<sub>Live contribution streak · GitHub profile activity remains the primary source for the full contribution graph.</sub>
 
 </div>
 
@@ -224,7 +225,7 @@ Computer Engineering
 
 <div align="center">
 
-`CURIOUSITY` → `EXPERIMENT` → `BUILD` → `DEBUG` → `UNDERSTAND`
+`CURIOSITY` → `EXPERIMENT` → `BUILD` → `DEBUG` → `UNDERSTAND`
 
 </div>
 
