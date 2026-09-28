@@ -22,7 +22,7 @@
 
 ### 👤 Identity
 **Raihan Athallah**  
-Computer Engineering Student  
+S1 Teknik Komputer
 **Telkom University** · Bandung, Indonesia
 
 > Exploring the intersection of software, AI, and computer systems.
