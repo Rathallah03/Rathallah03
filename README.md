@@ -164,6 +164,25 @@ Python + CustomTkinter simulator with:
 <tr>
 <td width="50%" valign="top">
 
+### ☁️ [Sistem Retail Toko Elektronik](https://github.com/Rathallah03/sistem-retail-toko-elektronik)
+
+Cloud-computing study project using a **3-tier virtual machine architecture**.
+
+<code>Vagrant</code> · <code>Ansible</code> · <code>Nginx</code> · <code>Flask</code> · <code>MySQL</code>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 [ComfyUI](https://github.com/Rathallah03/ComfyUi)
+
+Public workspace for **ComfyUI and generative-AI experimentation**, including workflows, custom nodes, model experiments, and image-generation pipelines.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### 🤖 [StudyMate-AI](https://github.com/Rathallah03/StudyMate-AI)
 
 LLM-based learning assistant built with **Python, Streamlit, and Gemini API**.
