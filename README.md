@@ -182,12 +182,13 @@ Public workspace for **ComfyUI and generative-AI experimentation**, including wo
 
 ### 🧪 [Anima LoRA Training](https://github.com/Rathallah03/Anima-LoRA-Training)
 
-Reproducible **Kaggle LoRA training pipeline** for Anima Base v1.0 using Kohya_ss `sd-scripts` and Accelerate.
+Reproducible **Kaggle LoRA training pipeline** for Anima Base v1.0 using Kohya_ss `sd-scripts` and Accelerate, with a documented character-LoRA case study.
 
 - 🧠 Anima Base + Qwen3 0.6B + VAE
 - 🖼️ Image/caption dataset validation
 - ⚙️ Automated TOML configuration & pre-flight checks
 - 🚀 Multi-GPU training with 2× NVIDIA T4
+- 🎨 Lilith character-LoRA case study & generated results
 
 <code>Python</code> · <code>PyTorch</code> · <code>LoRA</code> · <code>Anima</code> · <code>sd-scripts</code> · <code>Accelerate</code>
 
