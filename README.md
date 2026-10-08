@@ -133,14 +133,17 @@ I enjoy experimenting with AI beyond simply calling an API — from **generative
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [StudyMate-AI](https://github.com/Rathallah03/StudyMate-AI)
+### 🧪 [Anima LoRA Training](https://github.com/Rathallah03/Anima-LoRA-Training)
 
-LLM-based learning assistant built with **Python, Streamlit, and Gemini API**.
+Reproducible **Kaggle LoRA training pipeline** for Anima Base v1.0 using Kohya_ss `sd-scripts` and Accelerate, with a documented character-LoRA case study.
 
-- 💬 Conversational learning
-- 🧠 Chat history
-- 🎯 Explanation / Summary / Quiz modes
-- 🗣️ Adjustable response style
+- 🧠 Anima Base + Qwen3 0.6B + VAE
+- 🖼️ Image/caption dataset validation
+- ⚙️ Automated TOML configuration & pre-flight checks
+- 🚀 Multi-GPU training with 2× NVIDIA T4
+- 🎨 Lilith character-LoRA case study & generated results
+
+<code>Python</code> · <code>PyTorch</code> · <code>LoRA</code> · <code>Anima</code> · <code>sd-scripts</code> · <code>Accelerate</code>
 
 </td>
 <td width="50%" valign="top">
@@ -161,36 +164,14 @@ Python + CustomTkinter simulator with:
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ [Sistem Retail Toko Elektronik](https://github.com/Rathallah03/sistem-retail-toko-elektronik)
+### 🤖 [StudyMate-AI](https://github.com/Rathallah03/StudyMate-AI)
 
-Cloud-computing study project using a **3-tier virtual machine architecture**.
+LLM-based learning assistant built with **Python, Streamlit, and Gemini API**.
 
-<code>Vagrant</code> · <code>Ansible</code> · <code>Nginx</code> · <code>Flask</code> · <code>MySQL</code>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 [ComfyUI](https://github.com/Rathallah03/ComfyUi)
-
-Public workspace for **ComfyUI and generative-AI experimentation**, including workflows, custom nodes, model experiments, and image-generation pipelines.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧪 [Anima LoRA Training](https://github.com/Rathallah03/Anima-LoRA-Training)
-
-Reproducible **Kaggle LoRA training pipeline** for Anima Base v1.0 using Kohya_ss `sd-scripts` and Accelerate, with a documented character-LoRA case study.
-
-- 🧠 Anima Base + Qwen3 0.6B + VAE
-- 🖼️ Image/caption dataset validation
-- ⚙️ Automated TOML configuration & pre-flight checks
-- 🚀 Multi-GPU training with 2× NVIDIA T4
-- 🎨 Lilith character-LoRA case study & generated results
-
-<code>Python</code> · <code>PyTorch</code> · <code>LoRA</code> · <code>Anima</code> · <code>sd-scripts</code> · <code>Accelerate</code>
+- 💬 Conversational learning
+- 🧠 Chat history
+- 🎯 Explanation / Summary / Quiz modes
+- 🗣️ Adjustable response style
 
 </td>
 <td width="50%" valign="top">
@@ -211,7 +192,6 @@ Reproducible **Kaggle LoRA training pipeline** for Anima Base v1.0 using Kohya_s
 </td>
 </tr>
 </table>
-
 ---
 
 ## 📚 LEARNING JOURNEY
