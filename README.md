@@ -182,7 +182,7 @@ Public workspace for **ComfyUI and generative-AI experimentation**, including wo
 
 ### 🧪 [Anima LoRA Training](https://github.com/Rathallah03/Anima-LoRA-Training)
 
-Reproducible **Kaggle LoRA training pipeline** for Anima Base v1.0 using `sd-scripts` and Accelerate.
+Reproducible **Kaggle LoRA training pipeline** for Anima Base v1.0 using Kohya_ss `sd-scripts` and Accelerate.
 
 - 🧠 Anima Base + Qwen3 0.6B + VAE
 - 🖼️ Image/caption dataset validation
