@@ -174,6 +174,20 @@ Cloud-computing study project using a **3-tier virtual machine architecture**.
 Public workspace for **ComfyUI and generative-AI experimentation**, including workflows, custom nodes, model experiments, and image-generation pipelines.
 
 </td>
+<td width="50%" valign="top">
+
+### 🧪 [Anima LoRA Training](https://github.com/Rathallah03/Anima-LoRA-Training)
+
+Reproducible **Kaggle LoRA training pipeline** for Anima Base v1.0 using `sd-scripts` and Accelerate.
+
+- 🧠 Anima Base + Qwen3 0.6B + VAE
+- 🖼️ Image/caption dataset validation
+- ⚙️ Automated TOML configuration & pre-flight checks
+- 🚀 Multi-GPU training with 2× NVIDIA T4
+
+<code>Python</code> · <code>PyTorch</code> · <code>LoRA</code> · <code>Anima</code> · <code>sd-scripts</code> · <code>Accelerate</code>
+
+</td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
