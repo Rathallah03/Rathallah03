@@ -178,14 +178,18 @@ Collaborative **machine-learning project** from Study Group I-Smile, focused on 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [Hacktiv8 — StudyMate-AI](https://github.com/Rathallah03/StudyMate-AI)
+### 📱 [SEA Lab — RutinKu](https://github.com/khalilghibran/habit_tracker)
 
-LLM-based learning assistant built with **Python, Streamlit, and Gemini API**.
+**Collaborative Flutter mobile application** focused on routines, habits, and daily wellbeing.
 
-- 💬 Conversational learning
-- 🧠 Chat history
-- 🎯 Explanation / Summary / Quiz modes
-- 🗣️ Adjustable response style
+- ✅ To-Do & habit tracking
+- 🌱 Habit growth / routine management
+- 😊 Mood tracking & history
+- 😴 Sleep tracking
+- 📊 Dashboard & reports
+- 🤝 Built as a collaborative team project
+
+<code>Flutter</code> · <code>Dart</code> · <code>Mobile Development</code> · <code>Team Project</code>
 
 </td>
 </tr>
@@ -201,18 +205,14 @@ Cloud-computing study project using a **3-tier virtual machine architecture**.
 </td>
 <td width="50%" valign="top">
 
-### 📱 [SEA Lab — RutinKu](https://github.com/khalilghibran/habit_tracker)
+### 🤖 [Hacktiv8 — StudyMate-AI](https://github.com/Rathallah03/StudyMate-AI)
 
-**Collaborative Flutter mobile application** focused on routines, habits, and daily wellbeing.
+LLM-based learning assistant built with **Python, Streamlit, and Gemini API**.
 
-- ✅ To-Do & habit tracking
-- 🌱 Habit growth / routine management
-- 😊 Mood tracking & history
-- 😴 Sleep tracking
-- 📊 Dashboard & reports
-- 🤝 Built as a collaborative team project
-
-<code>Flutter</code> · <code>Dart</code> · <code>Mobile Development</code> · <code>Team Project</code>
+- 💬 Conversational learning
+- 🧠 Chat history
+- 🎯 Explanation / Summary / Quiz modes
+- 🗣️ Adjustable response style
 
 </td>
 </tr>
