@@ -148,7 +148,7 @@ Reproducible **Kaggle LoRA training pipeline** for Anima Base v1.0 using Kohya_s
 </td>
 <td width="50%" valign="top">
 
-### 🎮 [Gacha Inventory System - SEA Chan](https://github.com/Rathallah03/gacha-inventory-system)
+### 🎮 [SEA Lab — Gacha Inventory System - SEA Chan](https://github.com/Rathallah03/gacha-inventory-system)
 
 Python + CustomTkinter simulator with:
 
@@ -178,7 +178,7 @@ Collaborative **machine-learning project** from Study Group I-Smile, focused on 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [StudyMate-AI](https://github.com/Rathallah03/StudyMate-AI)
+### 🤖 [Hacktiv8 — StudyMate-AI](https://github.com/Rathallah03/StudyMate-AI)
 
 LLM-based learning assistant built with **Python, Streamlit, and Gemini API**.
 
@@ -201,7 +201,7 @@ Cloud-computing study project using a **3-tier virtual machine architecture**.
 </td>
 <td width="50%" valign="top">
 
-### 📱 [RutinKu](https://github.com/khalilghibran/habit_tracker)
+### 📱 [SEA Lab — RutinKu](https://github.com/khalilghibran/habit_tracker)
 
 **Collaborative Flutter mobile application** focused on routines, habits, and daily wellbeing.
 
