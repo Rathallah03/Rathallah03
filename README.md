@@ -160,20 +160,6 @@ Python + CustomTkinter simulator with:
 
 </td>
 </tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ [Sistem Retail Toko Elektronik](https://github.com/Rathallah03/sistem-retail-toko-elektronik)
-
-Cloud-computing study project using a **3-tier virtual machine architecture**.
-
-<code>Vagrant</code> · <code>Ansible</code> · <code>Nginx</code> · <code>Flask</code> · <code>MySQL</code>
-
-</td>
-
-</tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -190,7 +176,6 @@ Collaborative **machine-learning project** from Study Group I-Smile, focused on 
 <code>Python</code> · <code>pandas</code> · <code>scikit-learn</code> · <code>KNN</code> · <code>Machine Learning</code>
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🤖 [StudyMate-AI](https://github.com/Rathallah03/StudyMate-AI)
@@ -201,6 +186,17 @@ LLM-based learning assistant built with **Python, Streamlit, and Gemini API**.
 - 🧠 Chat history
 - 🎯 Explanation / Summary / Quiz modes
 - 🗣️ Adjustable response style
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ [Sistem Retail Toko Elektronik](https://github.com/Rathallah03/sistem-retail-toko-elektronik)
+
+Cloud-computing study project using a **3-tier virtual machine architecture**.
+
+<code>Vagrant</code> · <code>Ansible</code> · <code>Nginx</code> · <code>Flask</code> · <code>MySQL</code>
 
 </td>
 <td width="50%" valign="top">
@@ -221,6 +217,7 @@ LLM-based learning assistant built with **Python, Streamlit, and Gemini API**.
 </td>
 </tr>
 </table>
+
 ---
 
 ## 📚 LEARNING JOURNEY
