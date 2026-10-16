@@ -150,13 +150,16 @@ Reproducible **Kaggle LoRA training pipeline** for Anima Base v1.0 using Kohya_s
 
 ### 🎮 [SEA Lab — Gacha Inventory System - SEA Chan](https://github.com/Rathallah03/gacha-inventory-system)
 
-Python + CustomTkinter simulator with:
+Python-based **gacha and inventory simulator** with a graphical interface built using CustomTkinter.
 
-- 🎰 Pull & pity system
-- 🎒 Inventory management
-- ⭐ Constellation / duplicates
-- 💾 Save & load
-- 📜 Pull history
+- 🎰 Single and 10-pull system with SSR/SR/R rarities
+- ⭐ Soft/hard pity and 50/50 featured-banner guarantee
+- 🎒 Character inventory, duplicates, and constellation upgrades
+- 💰 Rupiah economy, daily rewards, and duplicate compensation
+- 💾 JSON save/load for player progress and pull history
+- 🖥️ Animated summons and modern dark-themed GUI
+
+<code>Python</code> · <code>CustomTkinter</code> · <code>Pillow</code> · <code>JSON</code>
 
 </td>
 </tr>
