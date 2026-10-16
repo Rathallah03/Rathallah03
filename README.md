@@ -177,6 +177,22 @@ Cloud-computing study project using a **3-tier virtual machine architecture**.
 <tr>
 <td width="50%" valign="top">
 
+### 🛡️ [I-Smile — Phishing URL Classification](https://github.com/Rathallah03/i-smile-kelompok-05)
+
+Collaborative **machine-learning project** from Study Group I-Smile, focused on binary classification of phishing and legitimate URLs using the PhiUSIIL dataset.
+
+- 🔎 Exploratory data analysis and data-quality checks
+- 🧹 Feature review and preprocessing with `StandardScaler`
+- 🤖 K-Nearest Neighbors (KNN) with `k = 3`
+- 📊 Stratified 5-fold cross-validation and test-set evaluation
+- 🎯 Test accuracy reported in the project: **99.26%**
+
+<code>Python</code> · <code>pandas</code> · <code>scikit-learn</code> · <code>KNN</code> · <code>Machine Learning</code>
+
+</td>
+
+<td width="50%" valign="top">
+
 ### 🤖 [StudyMate-AI](https://github.com/Rathallah03/StudyMate-AI)
 
 LLM-based learning assistant built with **Python, Streamlit, and Gemini API**.
