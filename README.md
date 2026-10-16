@@ -210,12 +210,16 @@ Cloud-computing study project using a **3-tier virtual machine architecture**.
 
 ### 🤖 [Hacktiv8 — StudyMate-AI](https://github.com/Rathallah03/StudyMate-AI)
 
-LLM-based learning assistant built with **Python, Streamlit, and Gemini API**.
+**LLM-powered learning assistant** built with Python, Streamlit, and the Google Gemini API to help students understand topics, summarize material, and practice with quizzes. Developed as a final project for LLM-Based Tools and Gemini API Integration for Data Scientists training.
 
-- 💬 Conversational learning
-- 🧠 Chat history
-- 🎯 Explanation / Summary / Quiz modes
-- 🗣️ Adjustable response style
+- 💬 Gemini-powered learning chatbot
+- 🧠 Conversation context and chat history
+- 🎯 Learning modes: Explanation, Summary, and Quiz
+- 🗣️ Response styles: Simple, Casual, and Formal
+- 🌡️ Adjustable temperature for response creativity
+- 🗑️ Option to clear the conversation
+
+<code>Python</code> · <code>Streamlit</code> · <code>Google Gemini API</code> · <code>google-genai</code>
 
 </td>
 </tr>
