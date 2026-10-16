@@ -171,13 +171,7 @@ Cloud-computing study project using a **3-tier virtual machine architecture**.
 <code>Vagrant</code> · <code>Ansible</code> · <code>Nginx</code> · <code>Flask</code> · <code>MySQL</code>
 
 </td>
-<td width="50%" valign="top">
 
-### 🎨 [ComfyUI](https://github.com/Rathallah03/ComfyUi)
-
-Public workspace for **ComfyUI and generative-AI experimentation**, including workflows, custom nodes, model experiments, and image-generation pipelines.
-
-</td>
 </tr>
 
 <tr>
